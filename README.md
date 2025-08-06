@@ -12,12 +12,12 @@ This project is an Excel-based hospitality analytics dashboard designed using **
 - 📁 Organized multi-sheet structure (`Home`, `Report`, `R1`, `R2`, `Pivots`)
 
 ## 📂 File Structure
-├── Home # User login and role selection
-├── Report # Dashboard with questions and visual summaries
-├── R1 # Insights like most popular hotels, peak months
-├── R2 # Booking status distribution and top hotels
-├── Pivots # Aggregated pivot data for charts and summaries
-└── Sheet1 # (Empty or raw data)
+- ├── Home # User login and role selection
+- ├── Report # Dashboard with questions and visual summaries
+- ├── R1 # Insights like most popular hotels, peak months
+- ├── R2 # Booking status distribution and top hotels
+- ├── Pivots # Aggregated pivot data for charts and summaries
+- └── Sheet1 # (Empty or raw data)
 
 ## 💡 Use Cases
 
@@ -54,4 +54,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### 📬 Contact
 
 For any questions or suggestions, feel free to reach out via GitHub Issues or connect on LinkedIn.
-LinkedIn:- www.linkedin.com/in/anurag-bawane-720242220
+- LinkedIn:- www.linkedin.com/in/anurag-bawane-720242220
