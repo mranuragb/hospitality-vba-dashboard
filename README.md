@@ -45,6 +45,10 @@ This project is an Excel-based hospitality analytics dashboard designed using **
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+### IMAGES
+
+![Alt text](<img width="1885" height="897" alt="image" src="https://github.com/user-attachments/assets/d2cb76ac-79f2-4b75-a230-d194456e99bf" />
+)
 
 ### 📬 Contact
 
