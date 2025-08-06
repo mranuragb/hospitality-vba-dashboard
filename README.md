@@ -47,7 +47,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 ### IMAGES
 
-(<img width="1885" height="897" alt="image" src="https://github.com/user-attachments/assets/d2cb76ac-79f2-4b75-a230-d194456e99bf" />)
+<img width="1885" height="897" alt="image" src="https://github.com/user-attachments/assets/d2cb76ac-79f2-4b75-a230-d194456e99bf" />
+<img width="1537" height="668" alt="image" src="https://github.com/user-attachments/assets/5b0c880b-ff55-463d-8ef4-b6b82305a816" />
+
 
 ### 📬 Contact
 
